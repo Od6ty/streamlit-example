@@ -1,4 +1,5 @@
 import streamlit as st
+import matplotlib.pyplot as plt
 from streamlit import session_state
 
 st.set_page_config(
